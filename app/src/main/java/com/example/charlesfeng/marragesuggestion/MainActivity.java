@@ -1,7 +1,7 @@
 package com.example.charlesfeng.marragesuggestion;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
             String suggestion = getString(R.string.Suggestion);
 
             if (gender.toUpperCase().equals(getString(R.string.Male))) {
-
                 if (age < 28) {
                     suggestion += getString(R.string.Not_Hurry);
                 } else if (age > 33) {
