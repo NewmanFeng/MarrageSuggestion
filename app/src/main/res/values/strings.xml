@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MarrageSuggestion</string>
+    <string name="result">Result</string>
+    <string name="edit_sex_hint">(Please Input Your Gender)</string>
+    <string name="Gender">Gender</string>
+    <string name="Age">Age</string>
+    <string name="edit_age_hint">(Please input your age)</string>
+    <string name="btn_ok">OK</string>
+    <string name="Suggestion">Suggestion:</string>
+    <string name="Male">MALE</string>
+    <string name="Female">FEMALE</string>
+    <string name="Not_Hurry">Not Hurry!</string>
+    <string name="Should_Get_Marrage">Should Get Marrage</string>
+    <string name="Find_Couple">Find Couple!</string>
+</resources>
